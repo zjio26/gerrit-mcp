@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git push *)",
+      "Bash(git rm *)",
+      "mcp__enrigin__g_get_pipeline_job",
+      "mcp__enrigin__g_get_project",
+      "mcp__enrigin__g_list_project_members",
+      "mcp__enrigin__g_get_pipeline_job_output",
+      "mcp__enrigin__g_get_pipeline",
+      "mcp__enrigin__g_list_pipeline_jobs",
+      "WebSearch",
+      "WebFetch(domain:docs.gitlab.com)",
+      "mcp__enrigin__ge_gerrit_get_self_account",
+      "mcp__enrigin__ge_gerrit_list_projects",
+      "mcp__enrigin__g_discover_tools",
+      "mcp__enrigin__jk_get_all_items",
+      "mcp__enrigin__jk_get_all_views"
+    ]
+  }
+}
